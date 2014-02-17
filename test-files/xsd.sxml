@@ -1,0 +1,20 @@
+((|tns|:|DescribeImagesResponse| :|xmlns| "http://ec2.amazonaws.com/doc/2006-10-01/") 
+ (|tns|:|imagesSet| 
+       (|tns|:|item| 
+             (|tns|:|imageId| "ami-0baa4f62") 
+             (|tns|:|imageLocation| "cb-debian/debian-lisp.manifest") 
+             (|tns|:|imageState| "available") 
+             (|tns|:|imageOwnerId| "349145659387")
+             (|tns|:|isPublic| "false")) 
+       (|tns|:|item| 
+             (|tns|:|imageId| "ami-0daa4f64")
+             (|tns|:|imageLocation| "cb-debian/debian-java-big.manifest") 
+             (|tns|:|imageState| "available") 
+             (|tns|:|imageOwnerId| "349145659387") 
+             (|tns|:|isPublic| "false")) 
+       (|tns|:|item| 
+             (|tns|:|imageId| "ami-22b6534b") 
+             (|tns|:|imageLocation| "ec2-public-images/fedora-core4-mysql.manifest.xml")
+             (|tns|:|imageState| "available")
+             (|tns|:|imageOwnerId| "amazon")
+             (|tns|:|isPublic| "true"))))

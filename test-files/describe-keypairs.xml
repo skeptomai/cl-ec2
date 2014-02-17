@@ -1,0 +1,13 @@
+<DescribeKeyPairs>
+  <keySet>
+    <item>
+      <keyName>bob</keyName>
+    </item>
+    <item>
+      <keyName>fred</keyName>
+    </item>
+    <item>
+      <keyName>joe</keyName>
+    </item>
+  </keySet>
+</DescribeKeyPairs>
